@@ -1,0 +1,10 @@
+main: fr.lasercraft.stickgun.StickGun
+version: 2.0
+name: StickGun
+author: Trophaigle
+description: Gun minigame with team
+commands:
+ start:
+  description: start the game
+ camera:
+  description: op cmd pour suveillez les cheaters
